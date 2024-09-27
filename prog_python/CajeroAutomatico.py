@@ -1,0 +1,4 @@
+#entrada
+
+#proceso
+#salida
